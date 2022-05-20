@@ -1,4 +1,4 @@
-# EditorCFG TOP/PKO
+# Editor CFG TOP/PKO
 
 ![cfg1](https://user-images.githubusercontent.com/53408118/169620777-50882b93-6c3e-4b5f-858b-23dca5cb7682.PNG)
 ![cfg2](https://user-images.githubusercontent.com/53408118/169620779-80d27436-c696-488f-b251-540d6e35d32a.PNG)
